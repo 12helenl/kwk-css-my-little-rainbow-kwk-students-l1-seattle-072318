@@ -11,23 +11,23 @@ div {
 }
 
 #violet {
-  background-color: #d300c9;
+  color: #d300c9;
 }
 #indigo {
-  background-color: #8a2be2;
+  color: #8a2be2;
 }
 #blue {
-  background-color: #06f;
+  color: #06f;
 }
 #green {
-  background-color: #00bc3f;
+  color: #00bc3f;
 }
 #yellow {
-  background-color: #ff0;
+ color: #ff0;
 }
 #orange{
-  background-color: #ffa500;
+  color: #ffa500;
 }
 #red {
-  background-color: #f00;
+  color: #f00;
 }
