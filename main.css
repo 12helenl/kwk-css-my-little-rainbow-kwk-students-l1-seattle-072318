@@ -29,5 +29,5 @@ div {
   color: #ffa500;
 }
 #red {
-  color: #f00;
+  border-top-color: #f00;
 }
